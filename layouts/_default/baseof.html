@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="ето мой сайт опа" />
+    <title>adgb.ru</title>
+
+    <link rel="icon" type="image/svg+xml" href="/images/logo-color.svg">
+
+    {{ template "_internal/opengraph.html" . }}
+
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/code.css">
+  </head>
+  <body>
+    <main class="flex justify-center items-center min-h-[calc(100dvh-2rem)] lg:min-h-dvh px-8 pt-[4.5rem] pb-[2.5rem] sm:pb-[4.5rem] sm:pt-[6.5rem] lg:pb-[6.5rem]">
+      <div class="max-w-screen-sm">
+        {{ block "main" . }} {{ .Content }} {{ end }}
+      </div>
+    </main>
+  </body>
+</html>
