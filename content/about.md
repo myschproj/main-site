@@ -32,7 +32,7 @@ title: "кто я"
     </tr>
     <tr>
       <td><a href="https://kuryuxa.vercel.app/">kirkras.ru</a></td>
-      <td>Сайт бэкенд разработчика Кирилла Красникова</td>
+      <td>Сайт моего друга и бэкенд разработчика Кирилла Красникова</td>
     </tr>
     <tr>
       <td><a href="https://polinasite.vercel.app/">petkevich.ru</a></td>
