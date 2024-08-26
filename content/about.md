@@ -1,32 +1,42 @@
 ---
-title: "brand guidelines"
+title: "кто я"
 ---
 
-## nickname
+Студент МИРЭА, программист, также известный как "андрей хайпов". Пишу код, в основном за деньги. Иногда нет, но проект должен быть очень интересным. Начинал джуном в ML, дорос до миддла в бекенде. Но это всё так, для души. Так-то я технический писатель.
 
-My nickname is **flexagoon**, written exactly like that. You cannot change any
-letters or capitalize them in a different way. First letter **should not** be
-capitalized, even if in the beginning of the sentence.
+## работа
 
-❌ Flexagoon  
-❌ flexagon  
-❌ FLEXOGON  
-✅ flexagoon  
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://ya.ru/">Яндекс</a></td>
+      <td>2023. От интерна до джуна. </td>
+    </tr>
+    <tr>
+      <td><a href="https://dodo.ru/">Додо</a></td>
+      <td>2023-2024. Бэк миддл.</td>
+    </tr>
+  </tbody>
+</table>
 
-## font
 
-This is not a hard requirement, however, my name should preferrably be written
-in the [Inter](https://rsms.me/inter) font. More specifically, you should use
-the **Extra Bold Italic** variant.
+## мой след
 
-## logo
+Сайты, которые я делал людям исключительно бесплатно в разные периоды своей жизни
 
-You can download my logo in three variants here. All three variants are in the
-SVG format.
-
-🔴 [Colored variant](/images/logo-color.svg)  
-⚪ [White variant](/images/logo-white.svg)  
-⚫ [Black variant](/images/logo-black.svg)
-
-The white and black variants can be of course recolored to a different color
-with any vector graphics editing program.
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://leotred2.vercel.app/">leotred.ru</a></td>
+      <td>Сайт одноклассника и крутого аддитивщика Лёни Корчмара </td>
+    </tr>
+    <tr>
+      <td><a href="https://kuryuxa.vercel.app/">kirkras.ru</a></td>
+      <td>Сайт бэкенд разработчика Кирилла Красникова</td>
+    </tr>
+    <tr>
+      <td><a href="https://polinasite.vercel.app/">petkevich.ru</a></td>
+      <td>Сайт моей одноклассницы Полины Петкевич</td>
+    </tr>
+  </tbody>
+</table>
