@@ -13,7 +13,7 @@ because I don't need a thead -->
     </tr>
     <tr>
       <td>email:</td>
-      <td><a href="mailto:me@adgb.ru">me@adgb.ru</a></td>
+      <td><a href="mailto:me@adgb.ru">andrey@gorbach.ru</a></td>
     </tr>
   </tbody>
 </table>
