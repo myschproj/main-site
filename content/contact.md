@@ -8,8 +8,8 @@ because I don't need a thead -->
 <table>
   <tbody>
     <tr>
-      <td>github:</td>
-      <td><a href="https://github.com/dogetred">@dogetred</a></td>
+      <td>lm:</td>
+      <td><a href="https://littlemonsters.com/@dron">@dron</a></td>
     </tr>
     <tr>
       <td>email:</td>
