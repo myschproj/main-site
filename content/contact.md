@@ -2,8 +2,7 @@
 title: "контакт"
 ---
 
-<!-- I'm using an html table instead of a markdown table
-because I don't need a thead -->
+<!-- разверни ещё три div'a... -->
 
 <table>
   <tbody>
