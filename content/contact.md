@@ -10,10 +10,11 @@ because I don't need a thead -->
     <tr>
       <td>github:</td>
       <td><a href="https://github.com/dogetred">@dogetred</a></td>
+      <!-- привет любителям палить в код элемента :) -->
     </tr>
     <tr>
       <td>email:</td>
-      <td><a href="mailto:me@adgb.ru">andrey@gorbach.ru</a></td>
+      <td><a href="mailto:andrey@gorbach.ru">andrey@gorbach.ru</a></td>
     </tr>
   </tbody>
 </table>
